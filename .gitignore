@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Personal runtime state
+settings*.json
+backups/
+validation/
+V0*_RECEIPT.json
+*.log
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+
+# Secrets and local environments
+.env
+.env.*
+*.pem
+*.key
+.venv/
+venv/
+
+# Build and editor output
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
