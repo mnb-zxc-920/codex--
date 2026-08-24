@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "CodexWhaleDisplayAssetsV1",
+  "skin": "deepseek-whale",
+  "displaySize": [
+    152,
+    152
+  ],
+  "alphaThreshold": 104,
+  "records": {
+    "normal": {
+      "source": "DSniang1.png",
+      "sourceSha256": "DCC456613DBB1102A4B7EF636A8B622371E33B763489D6249C434FB54248BA5C",
+      "target": "render-cache/deepseek-whale/normal.png",
+      "targetSha256": "5F0AD76C09FAE82722EC91BC24248F52E83242FECBD2559D0C67A45CB4A5E2F7",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        11,
+        3,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "stunned": {
+      "source": "DSniang1-stunned.png",
+      "sourceSha256": "C26532B9D100AF81993C3E323B5B564BB5D4C9AB24F71706ADF724EA7C2EB1C7",
+      "target": "render-cache/deepseek-whale/stunned.png",
+      "targetSha256": "50054DFA69F71E9FF26A2F8B5108AE098334AACE39F390A8F401A285B0110904",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        11,
+        2,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:whale-idle-phone-transparent-candidate-v1.png": {
+      "source": "idle-variants/whale-idle-phone-transparent-candidate-v1.png",
+      "sourceSha256": "D1C7979BC4B7B6E05E8B6B94DBB171099254B86F4498139C37919B0BCD8AB04C",
+      "target": "render-cache/deepseek-whale/idle/whale-idle-phone-transparent-candidate-v1.png",
+      "targetSha256": "BD84BFBBF99D3B90C5D3E00382957D945B224C3D38CA9982C2260743702F0E60",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        8,
+        2,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:whale-idle-sleeping-transparent-candidate-v1.png": {
+      "source": "idle-variants/whale-idle-sleeping-transparent-candidate-v1.png",
+      "sourceSha256": "5E10F3104F43F32C6EE97D196398AB482896439E1D1D10D69593028819646F34",
+      "target": "render-cache/deepseek-whale/idle/whale-idle-sleeping-transparent-candidate-v1.png",
+      "targetSha256": "4CC753635D1FB2C6B702E0025F6C0F4446458A0341BDCDA4301782F4B5BC14B6",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        9,
+        2,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:whale-idle-snack-chips-transparent-candidate-v1.png": {
+      "source": "idle-variants/whale-idle-snack-chips-transparent-candidate-v1.png",
+      "sourceSha256": "F751CA4170B4D50AA4C4A74F820F0C9B961953D545A74EA882B03C807036E74B",
+      "target": "render-cache/deepseek-whale/idle/whale-idle-snack-chips-transparent-candidate-v1.png",
+      "targetSha256": "A6160D4907315571167B4D7128F761CB6F85BDBB235D5E6DBFCE4AE7736E2F7E",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        12,
+        3,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:whale-idle-snack-cola-transparent-candidate-v1.png": {
+      "source": "idle-variants/whale-idle-snack-cola-transparent-candidate-v1.png",
+      "sourceSha256": "33F7BE5F78F43065AA4FDDB10EC8A4240D1A1FCC3FEFDAC7CC4861FC077A84DD",
+      "target": "render-cache/deepseek-whale/idle/whale-idle-snack-cola-transparent-candidate-v1.png",
+      "targetSha256": "ECC43D448632843C25BFCF1B9240F54AECDE27B2BE8FB6B22892A5C900570241",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        12,
+        2,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:whale-idle-snack-rice-transparent-candidate-v1.png": {
+      "source": "idle-variants/whale-idle-snack-rice-transparent-candidate-v1.png",
+      "sourceSha256": "F9BB699CBB8C89AE6D76A2DEAF94058C4E93236F212CB6F8A295C7F43CDCD2E8",
+      "target": "render-cache/deepseek-whale/idle/whale-idle-snack-rice-transparent-candidate-v1.png",
+      "targetSha256": "1D4345EDF4B56EE3684ACC177EA482731EAD5A9BB5223E657E4B1B4BBCBC7505",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        12,
+        4,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:whale-idle-snack-spicy-strip-transparent-candidate-v1.png": {
+      "source": "idle-variants/whale-idle-snack-spicy-strip-transparent-candidate-v1.png",
+      "sourceSha256": "6A44B16F53BA8C43B8C728DA5483194E8366800B906381E63B2536D2764F7B98",
+      "target": "render-cache/deepseek-whale/idle/whale-idle-snack-spicy-strip-transparent-candidate-v1.png",
+      "targetSha256": "711ED3B09891BA448153CFE037CD5CC87338179DC01216B2286286D7792A4C29",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        13,
+        3,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:whale-idle-snack-token-transparent-candidate-v1.png": {
+      "source": "idle-variants/whale-idle-snack-token-transparent-candidate-v1.png",
+      "sourceSha256": "B2329B275779EDE68D40135C30F6A86468DD64E4DA0BB33CA638FF58BA853139",
+      "target": "render-cache/deepseek-whale/idle/whale-idle-snack-token-transparent-candidate-v1.png",
+      "targetSha256": "AA156765767491F0DC43991161A932D8014C5CA408D4B1C19291D41B650C0B7D",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        12,
+        3,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    }
+  }
+}

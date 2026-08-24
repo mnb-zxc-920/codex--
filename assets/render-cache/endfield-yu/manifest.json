@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "CodexWhaleDisplayAssetsV1",
+  "skin": "endfield-yu",
+  "displaySize": [
+    152,
+    152
+  ],
+  "alphaThreshold": 104,
+  "records": {
+    "normal": {
+      "source": "skins/endfield-yu/mint-horned-default-chibi-transparent-candidate-v2.png",
+      "sourceSha256": "77E388B8B85666F8EA02221127B54DD661F83F87AC269B53BFA2A8E361518ECD",
+      "target": "render-cache/endfield-yu/normal.png",
+      "targetSha256": "FCB1A32A675B4E2661005BFB4B09913742E0DCF838E85170326D09FCEA33639F",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        8,
+        17,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "stunned": {
+      "source": "skins/endfield-yu/mint-horned-bump-x-eyes-transparent-candidate-v1.png",
+      "sourceSha256": "4CA39175929788E735D134DD4D5023C1DC61089FF97AFB3D33976A9C305B7FCD",
+      "target": "render-cache/endfield-yu/stunned.png",
+      "targetSha256": "1B67A8F5A2A8AD61280DEB1B9A20D79FBD1FA2BC08FF2DE4D654D47C00975D12",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        8,
+        17,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:mint-horned-idle-phone-transparent-candidate-v1.png": {
+      "source": "skins/endfield-yu/mint-horned-idle-phone-transparent-candidate-v1.png",
+      "sourceSha256": "CD16CE4434520E34F75B2DEC4F40DB3D2B2A5DDC9AC6583B07EA1576700BCF8E",
+      "target": "render-cache/endfield-yu/idle/mint-horned-idle-phone-transparent-candidate-v1.png",
+      "targetSha256": "637291894F9096AF8766725F4EBD59B76C8905C109B270FD1EA5DA17858C17B0",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        7,
+        13,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:mint-horned-idle-sleeping-transparent-candidate-v1.png": {
+      "source": "skins/endfield-yu/mint-horned-idle-sleeping-transparent-candidate-v1.png",
+      "sourceSha256": "BDEA77560CFD4D8F99F4A3A1E9CE578A73917C10095FE4D15AAF5BEEDF20B37C",
+      "target": "render-cache/endfield-yu/idle/mint-horned-idle-sleeping-transparent-candidate-v1.png",
+      "targetSha256": "D237F2D9391A97117B3097759EC98D5CCCB5A68A6B758698A8B8D63EA389F031",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        8,
+        17,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:mint-horned-idle-snack-chips-transparent-candidate-v1.png": {
+      "source": "skins/endfield-yu/mint-horned-idle-snack-chips-transparent-candidate-v1.png",
+      "sourceSha256": "7F5EF572F70D78BB16BEDDDDB4018B79C819D485736A417B08A5DA92DB822077",
+      "target": "render-cache/endfield-yu/idle/mint-horned-idle-snack-chips-transparent-candidate-v1.png",
+      "targetSha256": "58B1FADC5FC872429E67348C1D280CCCCFD5EFE493BFE7AA4059FF92975E06FC",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        8,
+        13,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:mint-horned-idle-snack-cola-transparent-candidate-v1.png": {
+      "source": "skins/endfield-yu/mint-horned-idle-snack-cola-transparent-candidate-v1.png",
+      "sourceSha256": "368650C09D212DE051B77ED4088144CCBA4B64EBD266987322B95F95E8FAAAE7",
+      "target": "render-cache/endfield-yu/idle/mint-horned-idle-snack-cola-transparent-candidate-v1.png",
+      "targetSha256": "DA0A3F99FC5AD547E657FE912223593FF3F0D552ADD282E369EE1EE157B625A5",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        8,
+        14,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:mint-horned-idle-snack-rice-transparent-candidate-v1.png": {
+      "source": "skins/endfield-yu/mint-horned-idle-snack-rice-transparent-candidate-v1.png",
+      "sourceSha256": "6884BBA9009E8B8C9C809BA8B980421DB12924CEC3740432FF39D934E8A784E5",
+      "target": "render-cache/endfield-yu/idle/mint-horned-idle-snack-rice-transparent-candidate-v1.png",
+      "targetSha256": "69D2C949042104AE6F4A8638E9228DF0A44CE7645F0B4A4DED99B0F4B71B6A77",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        10,
+        11,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:mint-horned-idle-snack-spicy-strip-transparent-candidate-v1.png": {
+      "source": "skins/endfield-yu/mint-horned-idle-snack-spicy-strip-transparent-candidate-v1.png",
+      "sourceSha256": "D6C875F27000045DACB1E22FC1FB4E64953407CD34068356E247BD5FED9AFE97",
+      "target": "render-cache/endfield-yu/idle/mint-horned-idle-snack-spicy-strip-transparent-candidate-v1.png",
+      "targetSha256": "CC54BC712E49C1B7962C73BC1E41E4A1FE890740D4DC23176FADAAFBABF2DF20",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        8,
+        14,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    "idle:mint-horned-idle-snack-token-transparent-candidate-v1.png": {
+      "source": "skins/endfield-yu/mint-horned-idle-snack-token-transparent-candidate-v1.png",
+      "sourceSha256": "8F1C85A7F2F93A6B83CD71563ADF852B507065609BF2EACE0F9E51FB18DC1756",
+      "target": "render-cache/endfield-yu/idle/mint-horned-idle-snack-token-transparent-candidate-v1.png",
+      "targetSha256": "A477B8DBA7D6DBE0180C02E9F25157B02676867433230492AB7A12E2F732A723",
+      "size": [
+        152,
+        152
+      ],
+      "alphaBBox": [
+        8,
+        13,
+        152,
+        152
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    }
+  }
+}
